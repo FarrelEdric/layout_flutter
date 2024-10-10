@@ -1,16 +1,17 @@
-# layout_flutter
+# hello im Farrel
 
-A new Flutter project.
+A new Flutter Layout project.
 
-## Getting Started
+## Praktikum 1
 
-This project is a starting point for a Flutter application.
+### langkah 1
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot hello_world](assets/images/L1.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### soal 1-3
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot hello_world](assets/images/SoalP1.png)
+
+## Praktikum 2 - 4
+
+![Screenshot hello_world](assets/images/p2.png)
