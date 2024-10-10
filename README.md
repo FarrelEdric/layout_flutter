@@ -14,4 +14,4 @@ A new Flutter Layout project.
 
 ## Praktikum 2 - 4
 
-![Screenshot hello_world](assets/images/p2.png)
+![Screenshot hello_world](assets/images/hasil%20p2-3.png)

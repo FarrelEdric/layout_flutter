@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
                 Container(
                   padding: const EdgeInsets.only(bottom: 8), // padding bawah 8
                   child: const Text(
-                    'Wisata di Discord',
+                    'Wisata di Batu ',
                     style: TextStyle(
                       fontWeight: FontWeight.bold,
                     ),
@@ -95,7 +95,7 @@ class MyApp extends StatelessWidget {
         body: ListView(
           children: [
             Image.asset(
-              'images/1.png',
+              'assets/images/batu.png',
               width: 600,
               height: 240,
               fit: BoxFit.cover,
